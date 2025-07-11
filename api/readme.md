@@ -6,16 +6,16 @@
 ## Running the Application
 
 1. Install dependencies:
-   \`\`\`bash
+   ```javascript
    npm install
-   \`\`\`
+   ```
 
 2. Start the server:
-   \`\`\`bash
+   ```javascript
    npm start
-   \`\`\`
+   ```
 
 3. Run tests:
-   \`\`\`bash
+   ```javascript
    npm test
-   \`\`\`
+   ```
